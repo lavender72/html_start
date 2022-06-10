@@ -83,7 +83,7 @@ a {
     /* 按钮默认有边框 */
     /* 行内块盒子中间有缝隙，会挤下去 */
     border: 0;
-    background: url(images/fa-search.png);
+    background: url(fa-search.png);
 
 }
 .user {
@@ -100,7 +100,7 @@ a {
 }
 .banner .w {
     height: 421px;
-    background: url(images/banner2.png) no-repeat top center;
+    background: url(banner2.png) no-repeat top center;
     
 }
 .subnav {
